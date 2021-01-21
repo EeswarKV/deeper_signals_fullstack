@@ -1,0 +1,9 @@
+{ 
+    "data":[{ 
+        "Agreeableness": 15, 
+        "Drive": 60, 
+        "Luck": 10, 
+        "Openess": 15 
+        }], 
+    "type": "bar" 
+}

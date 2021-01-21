@@ -1,0 +1,62 @@
+[{ 
+    "id": 1, 
+    "first_name": "Kitra", 
+    "last_name": "Hammond", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "Admin"
+},{ 
+    "id": 2, 
+    "first_name": "Jasmine", 
+    "last_name": "Wong", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},
+{ 
+    "id": 3, 
+    "first_name": "Brooke", 
+    "last_name": "Mcconnell", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},{ 
+    "id": 4, 
+    "first_name": "Amber", 
+    "last_name": "Brady", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},{ 
+    "id": 5, 
+    "first_name": "Charity", 
+    "last_name": "Wong", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},{ 
+    "id": 6, 
+    "first_name": "Gwendolyn", 
+    "last_name": "Morrow", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},{ 
+    "id": 7, 
+    "first_name": "Vega", 
+    "last_name": "Whitfield", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},{ 
+    "id": 8, 
+    "first_name": "Astra", 
+    "last_name": "Hammond", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},{ 
+    "id": 9, 
+    "first_name": "Mathews", 
+    "last_name": "Christen", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "User"
+},{ 
+    "id": 10, 
+    "first_name": "Philip", 
+    "last_name": "Brooke", 
+    "email": "toxazoc@mailinator.com", 
+    "role": "Admin"
+}]
